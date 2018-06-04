@@ -24,12 +24,15 @@ Try to keep your commits as small and individual as possible for readability and
 |[cleanup]       |  Movement, reordering and reformatting of code. |
 |[clerical]      |  Adjustments, fixes and changes in non-code text content. |
 |[continuation]  |  Continuation of a new feature or bugfix. See proper syntax below. |
+|[change]        |  Generic changes. |
 #### Continuation syntax
 ``Summary: [continuation][bugfix]finalized #1327 fix.``✔
 
 Tags do not count towards the total summary character count.
 <br><br>
 Tags must be entirely in lowercase.
+<br><br>
+Generic changes using the ``[change]`` tag may only be used in cases where another tag does not fit any other standard tags, and must include an extra in-depth description for review.
 
 ## Descriptions
 Descriptions must be in-depth and cover all changes completed with a length of up to 720 characters total. Text may contain 
