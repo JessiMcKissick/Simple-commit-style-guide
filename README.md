@@ -32,6 +32,8 @@ Tags do not count towards the total summary character count.
 <br><br>
 Tags must be entirely in lowercase.
 <br><br>
+
+#### Generic changes and the [change] tag
 Generic changes using the ``[change]`` tag may only be used in cases where another tag does not fit any other standard tags, and must include an extra in-depth description for review.
 
 ## Descriptions
